@@ -1,0 +1,10 @@
+node_modules
+dist
+dev-dist
+*.local
+.DS_Store
+playwright-report
+test-results
+
+# Generated at build time by scripts/generate-icons.mjs (prebuild)
+public/icons/*.png
